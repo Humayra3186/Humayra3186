@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="400" width="1200" src="https://www.canva.com/design/DAGePN60oiI/wJrDE7Ayr7x0owX9Tc75BQ/view?utm_content=DAGePN60oiI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he6ffd50b17"  />
+  <img  src="https://www.canva.com/design/DAGePN60oiI/wJrDE7Ayr7x0owX9Tc75BQ/view?utm_content=DAGePN60oiI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he6ffd50b17"  />
 </div>
 
 ###
