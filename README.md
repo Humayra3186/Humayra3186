@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="300" src="https://media.licdn.com/dms/image/v2/D4E12AQG1PxZ73PEBSw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708668303539?e=2147483647&v=beta&t=QZ6IviSc6wyLpBOJAdbf97iYHddRto31uZEj6kaP8BY"  />
+  <img height="300" width="1200" src="https://media.licdn.com/dms/image/v2/D4E12AQG1PxZ73PEBSw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708668303539?e=2147483647&v=beta&t=QZ6IviSc6wyLpBOJAdbf97iYHddRto31uZEj6kaP8BY"  />
 </div>
 
 ###
